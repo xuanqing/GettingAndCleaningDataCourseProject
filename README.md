@@ -2,13 +2,13 @@
 
 This repo is for Getting And Cleaning Data's Course Project
 
-## run_analysis.R
+## run\_analysis.R
 
-run_analysis.R file is the main file of this repo
+run\_analysis.R file is the main file of this repo
 It can be run as long as the Samsung data is in R's working directory, 
 and output to 'tidyset.txt' file as result. 
 
-run_analysis.R file works step by step
+run\_analysis.R file works step by step
 1.  define the file names
 2.  parse trainset
 3.  parse testset
