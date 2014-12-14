@@ -10,6 +10,7 @@ and output to 'tidyset.txt' file as result.
 
 =============
 run\_analysis.R file works step by step
+
 1.  define the file names
 2.  parse trainset
 3.  parse testset
