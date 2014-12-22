@@ -2,6 +2,10 @@
 
 This repo is for Getting And Cleaning Data's Course Project
 
+#### How to
+Be sure the Samsung data is in your working directory. 
+And Source the run\_analysis.R file though the right path. 
+
 #### run\_analysis.R
 
 run\_analysis.R file is the main file of this repo
